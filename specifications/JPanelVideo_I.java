@@ -1,5 +1,5 @@
 
-package ch.hearc.projet.chatvideo.specifications;
+package ch.hearc.cours.chatvideo.rmi.specification.specifications;
 
 
 
